@@ -2,13 +2,16 @@
 
 ###
 
-<p align="left">I am an Informatics Engineering student with interest in `Cyber Security`,`Computer Engineering`,`Software Engineering`</p>
-
-###
+I am an Informatics Engineering student with interest in `Cyber Security`,`Computer Networking` and `Software Engineering`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frzkyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzkyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <!--<img src="https://github-readme-stats.shion.dev/api?username=Frzkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>-->
+
+  <img src="https://streak-stats.demolab.com/?user=Frzkyy&theme=dark&hide_border=false" /><br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frzkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
 </div>
 
 ###
