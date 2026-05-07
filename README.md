@@ -14,6 +14,14 @@ I am an Informatics Engineering student with interest in `Cyber Security`,`Compu
 
 </div>
 
+---
+
+<div align="center">
+    <img src=img/phoebe.png>
+</div>
+
+---
+
 ###
 
 <h3 align="left">Languages and Tools</h3>
@@ -39,3 +47,6 @@ I am an Informatics Engineering student with interest in `Cyber Security`,`Compu
 </div>
 
 ###
+
+---
+
