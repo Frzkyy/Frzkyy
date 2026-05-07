@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Phoebe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZhdDg0dWxrZDNscmI5Yml2dnprd3NxZzE3ZzMwYXMwZ3owbThhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bLPtVbN7eZWF57wjEw/giphy.gif)
+
 <!--
 **Frzkyy/Frzkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
