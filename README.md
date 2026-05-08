@@ -2,7 +2,7 @@
 
 ###
 
-I am an Informatics Engineering student with interest in `Cyber Security`,`Computer Networking` and `Software Engineering`
+I am an Informatics Engineering student with interest in `Cybersecurity`,`Computer Networking` and `Software Engineering`
 
 <div align="center">
 
@@ -19,6 +19,11 @@ I am an Informatics Engineering student with interest in `Cyber Security`,`Compu
 <div align="center">
     <img src=img/phoebe.png>
 </div>
+
+### Projects:
+
+`Coming Soon`
+
 
 ---
 
