@@ -10,7 +10,7 @@ I am an Informatics Engineering student with interest in `Cybersecurity`,`Comput
 
   <img src="https://streak-stats.demolab.com/?user=Frzkyy&theme=dark&hide_border=false" /><br/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frzkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frzkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  />
 
 </div>
 
